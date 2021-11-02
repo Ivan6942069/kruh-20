@@ -30,7 +30,6 @@ namespace kruh_20
                 }
                 if (polomer > 0)
                 {
-                    Console.Write("zadej prumer:");
                     double.TryParse(Console.ReadLine(), out prumer);
                 }
                 else
